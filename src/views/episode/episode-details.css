@@ -1,0 +1,21 @@
+.episode-details {
+    box-shadow: 0px 0px black, -0.2em 0 0.4em gray;
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.episode-details-title {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.episode-details-description {
+    font-style: oblique;
+    margin: 25px 0;
+}
+
+.episode-details-player audio{
+    width: 100%;
+}
